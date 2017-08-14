@@ -1,1 +1,1 @@
-FROM gcr.io/google_containers/skydns:latest 
+FROM gcr.io/google_containers/skydns:2015-03-11-001
